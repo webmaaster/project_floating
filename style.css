@@ -1,8 +1,12 @@
 body {
 
-  background-color: green;
+  background-color: grey;
 }
 
 h1 {
   color: red;
+}
+
+p {
+  color: pink;
 }
